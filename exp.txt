@@ -1,0 +1,2 @@
+I learnt how to connect remote repo to github.
+Using git
